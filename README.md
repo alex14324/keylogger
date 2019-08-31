@@ -13,7 +13,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
 ### Cloning:
 ```
-git clone https://github.com/alex14324/BeeLogger.git
+git clone https://github.com/alex14324/keelogger.git
 ```
 
 ### Running:
